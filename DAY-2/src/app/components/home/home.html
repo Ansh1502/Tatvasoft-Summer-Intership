@@ -1,0 +1,11 @@
+<p>It works!</p>
+<p>Hello,{{studentName}}</p>
+<input [(ngModel)]="studentName" [placeholder]="'Enter Student Name'">
+<button (click)="addName()">Submit</button>
+
+<ul>
+    <li *ngFor="let name of names">{{name}}</li>
+</ul>
+<p  [ngClass]="{'clicked':clicked, 'not-clicked': !clicked}">Test text</p>
+<p *ngIf="clicked">Button is clicked</p>
+<button (click)="handleClick()">Click </button>
