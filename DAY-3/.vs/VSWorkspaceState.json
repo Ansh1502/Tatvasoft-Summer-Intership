@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\User_Management.DataAccess",
+    "\\User_Management.DataAccess\\Migrations",
+    "\\User_Management.DataAccess\\obj",
+    "\\User_Management.DataAccess\\obj\\Release",
+    "\\User_Management.DataAccess\\Repositories",
+    "\\User_Management.Services",
+    "\\User_Management.Services\\Services",
+    "\\User_Managment"
+  ],
+  "SelectedNode": "\\User_Management.DataAccess\\Repositories\\UserRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
