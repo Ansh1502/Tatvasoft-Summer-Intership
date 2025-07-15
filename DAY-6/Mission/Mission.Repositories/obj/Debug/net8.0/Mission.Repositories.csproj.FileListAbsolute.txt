@@ -1,0 +1,16 @@
+C:\Users\sonid\Downloads\Tatvasoft-Summer-Intership\Tatvasoft-Summer-Intership\DAY-6\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+C:\Users\sonid\Downloads\Tatvasoft-Summer-Intership\Tatvasoft-Summer-Intership\DAY-6\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+C:\Users\sonid\Downloads\Tatvasoft-Summer-Intership\Tatvasoft-Summer-Intership\DAY-6\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\sonid\Downloads\Tatvasoft-Summer-Intership\Tatvasoft-Summer-Intership\DAY-6\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+C:\Users\sonid\Downloads\Tatvasoft-Summer-Intership\Tatvasoft-Summer-Intership\DAY-6\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+C:\Users\sonid\Downloads\Tatvasoft-Summer-Intership\Tatvasoft-Summer-Intership\DAY-6\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+C:\Users\sonid\Downloads\Tatvasoft-Summer-Intership\Tatvasoft-Summer-Intership\DAY-6\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonid\Downloads\Tatvasoft-Summer-Intership\Tatvasoft-Summer-Intership\DAY-6\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+C:\Users\sonid\Downloads\Tatvasoft-Summer-Intership\Tatvasoft-Summer-Intership\DAY-6\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+C:\Users\sonid\Downloads\Tatvasoft-Summer-Intership\Tatvasoft-Summer-Intership\DAY-6\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\sonid\Downloads\Tatvasoft-Summer-Intership\Tatvasoft-Summer-Intership\DAY-6\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.sourcelink.json
+C:\Users\sonid\Downloads\Tatvasoft-Summer-Intership\Tatvasoft-Summer-Intership\DAY-6\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+C:\Users\sonid\Downloads\Tatvasoft-Summer-Intership\Tatvasoft-Summer-Intership\DAY-6\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+C:\Users\sonid\Downloads\Tatvasoft-Summer-Intership\Tatvasoft-Summer-Intership\DAY-6\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+C:\Users\sonid\Downloads\Tatvasoft-Summer-Intership\Tatvasoft-Summer-Intership\DAY-6\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+C:\Users\sonid\Downloads\Tatvasoft-Summer-Intership\Tatvasoft-Summer-Intership\DAY-6\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
